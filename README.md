@@ -1,2 +1,0 @@
-# lenovo-logo
-ideapad
